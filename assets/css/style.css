@@ -30,10 +30,29 @@
     color: #2f1f1f; }
 
 #four-section {
-  background-color: #2f1f1f; }
+  background-color: #4a3a3a; }
   #four-section h2, #four-section p {
     color: #e9e0b7; }
+  #four-section .espacio-four {
+    padding: 3%; }
   #four-section .img-four {
     padding: 3%; }
+
+#five-section {
+  background-color: #2f1f1f;
+  color: #e9e0b7; }
+  #five-section .espacio-five {
+    padding: 3% 0; }
+  #five-section h3 {
+    font-size: 16px; }
+  #five-section p {
+    font-size: 12px; }
+  #five-section .img-footer {
+    border: 5px solid #db6c3f;
+    background-color: #d9bd85; }
+  #five-section .comillas {
+    color: #db6c3f; }
+  #five-section .linea {
+    color: #d9bd85; }
 
 /*# sourceMappingURL=style.css.map */

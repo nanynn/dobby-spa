@@ -45,11 +45,40 @@
 }
 
 #four-section{
-	background-color: $color-brown;
+	background-color: $color-brown-dos;
+
 	h2, p{
 		color: $color-brown-uno;
+	}
+	.espacio-four{
+		padding: 3%;
 	}
 	.img-four{
 		padding: 3%;
 	}
+}
+
+#five-section{
+	background-color: $color-brown;
+	color: $color-brown-uno;
+	.espacio-five{
+		padding: 3% 0;
+	}
+	h3{
+		font-size: 16px;
+	}
+	p{
+		font-size: 12px;
+	}
+	.img-footer{
+		border: 5px solid $color-orange;
+		background-color: $color-brown-detils;
+	}
+	.comillas{
+		color: $color-orange;
+	}
+	.linea{
+		color: $color-brown-detils;
+	}
+
 }
