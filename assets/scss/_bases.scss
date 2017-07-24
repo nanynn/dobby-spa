@@ -1,0 +1,55 @@
+#navbar{
+	background-color: $color-brown;
+	nav{
+		padding: 0 3em;
+ 		margin: 0 25%;	
+	}
+	ul{
+		text-decoration:none;
+	}
+	a{
+		color: $color-brown-detils;
+	}
+	a:hover{
+		color:$color-brown;
+	}
+}
+
+
+#second-section{
+	background-color:$color-brown-uno;
+	border-top: 2px solid $color-brown;
+	
+	.espacio-second{
+		padding: 3% 0;
+	}
+	.img-second{
+	border: 8px solid $color-brown-detils;
+	}
+	.text-second{
+		padding: 1%;
+	}
+}
+
+#third-section{
+	background-color: $color-grey;
+	.espacio-third{
+		padding: 3% 0;
+	}
+	h2{
+		color: $color-orange;
+	}
+	.fa-leaf{
+		color: $color-brown;
+	}
+}
+
+#four-section{
+	background-color: $color-brown;
+	h2, p{
+		color: $color-brown-uno;
+	}
+	.img-four{
+		padding: 3%;
+	}
+}
